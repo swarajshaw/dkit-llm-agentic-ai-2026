@@ -1,5 +1,17 @@
 # Roadmap
 
+## Program Structure (Module Path)
+
+### LLM Models
+- Semester 1: Foundations of Generative AI and LLMs
+- Semester 2: Retrieval-Augmented Generation (RAG) and Information Retrieval
+
+### Agentic AI
+- Semester 1: Foundations of Agentic AI Systems
+- Semester 2: Advanced Architectures and Applications in Agentic AI
+
+## Build Roadmap (Project Delivery)
+
 ## Phase 1 (Weeks 1-4): Agentic CLI + API
 - plan -> act -> reflect loop
 - basic tool calling
