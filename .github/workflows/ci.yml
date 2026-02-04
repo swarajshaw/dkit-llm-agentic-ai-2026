@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate markdown files
+        run: |
+          echo "Basic CI placeholder: add language-specific lint/test in Step 2"

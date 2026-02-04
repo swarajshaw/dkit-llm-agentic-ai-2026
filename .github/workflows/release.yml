@@ -1,0 +1,10 @@
+name: Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release-placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Add semantic release/tagging when ready"

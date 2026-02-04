@@ -1,0 +1,15 @@
+name: Security
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  security-placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Security baseline
+        run: |
+          echo "Add gitleaks/dependency scan in Step 3"

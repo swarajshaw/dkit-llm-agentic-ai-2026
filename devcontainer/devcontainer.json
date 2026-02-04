@@ -1,0 +1,6 @@
+{
+  "name": "dkit-llm-agentic-ai-2026",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "postCreateCommand": "echo Dev container ready"
+}
