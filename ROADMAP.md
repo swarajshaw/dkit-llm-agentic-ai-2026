@@ -1,5 +1,9 @@
 # Roadmap
 
+## Lecture Timeline (February 2026)
+- 2026-02-04: Foundations of Agentic AI (module orientation, agent types, autonomy levels, reliability and governance)
+- 2026-02-10: Foundations in Agentic AI - Interacting with Model API (OpenAI SDK basics, memory via chat history, tool calling, structured outputs, tracing)
+
 ## Program Structure (Module Path)
 
 ### LLM Models

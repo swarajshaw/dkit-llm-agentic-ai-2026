@@ -1,0 +1,18 @@
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Quarto generated outputs
+notes/**/*.html
+notes/**/*_files/
