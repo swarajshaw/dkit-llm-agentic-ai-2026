@@ -1,0 +1,3 @@
+Agentic AI systems combine language models with tools, memory, and workflows to perform tasks that require multiple decisions.
+Unlike single-shot chat interactions, agent workflows can iterate through planning, acting, and reviewing intermediate outputs.
+Reliable systems often use structured prompts, constrained tool permissions, and explicit validation checkpoints.

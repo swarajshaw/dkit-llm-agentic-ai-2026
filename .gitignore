@@ -12,6 +12,8 @@ venv/
 .env
 .env.*
 !.env.example
+# Explicit lab env file ignore (keeps real keys local only)
+labs/lab-01-prompting/.env
 
 # Quarto generated outputs
 notes/**/*.html

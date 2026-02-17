@@ -1,0 +1,3 @@
+Urban traffic congestion is driven by peak-hour demand, incidents, poor signal timing, and limited public transport integration.
+AI can help through adaptive signal control, demand forecasting, incident detection, and dynamic route recommendations.
+Deployment requires coordination across transport agencies, sensor infrastructure, and privacy-aware data governance.
